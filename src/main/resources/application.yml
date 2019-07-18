@@ -1,0 +1,6 @@
+server:
+  port: 8080
+
+xxoo:
+  name: 小明
+  email: 12@12
