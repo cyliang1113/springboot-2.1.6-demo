@@ -7,6 +7,9 @@ import org.springframework.validation.annotation.Validated;
 
 import javax.validation.constraints.NotEmpty;
 
+/**
+ * 从yml文件中读取配置文件
+ */
 @Component
 @ConfigurationProperties("xxoo")
 @Data
